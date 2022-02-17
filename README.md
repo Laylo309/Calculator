@@ -15,6 +15,11 @@ Simple calculator which does adding, multiplying, dividing, and subtracting.
 - Visual Studio Code
 - Git & Github
 
+
+## Getting Started
+
+- I have used HTML CSS and JavaScript.
+
 ### Install
 
 To get a local copy up and running follow these simple example steps.
@@ -25,10 +30,6 @@ To get a local copy up and running follow these simple example steps.
 - Open `index.html` in your local browser or using Live Server in Visual Studio Code.
 - To install this project run `npm install`.
 - To run the project use the command `npm start`
-## Getting Started
-
-- I have used HTML CSS and JavaScript.
-
 ### Prerequisites
 
 - IDE to edit and run the code (I use Visual Studio Code 🔥).
